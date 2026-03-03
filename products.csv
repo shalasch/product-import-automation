@@ -1,0 +1,301 @@
+code,brand,type,category,unit_price,cost,notes
+P00000,HP,Monitor,5,903.27,552.55,Seasonal item
+P00001,Philips,Headphones,5,364.97,183.01,
+P00002,Apple,Speaker,2,1562.07,978.28,New arrival
+P00003,LG,TV,1,448.5,268.53,Limited stock
+P00004,Garmin,Monitor,2,68.52,39.13,New arrival
+P00005,Samsung,Smartphone,3,1833.71,1112.68,Limited stock
+P00006,HP,Laptop,2,1894.89,1221.61,Limited stock
+P00007,Apple,Keyboard,4,553.4,347.19,New arrival
+P00008,Apple,Smartwatch,4,467.28,284.38,Supplier discount
+P00009,Apple,Tablet,1,545.08,255.68,New arrival
+P00010,Dell,TV,5,1655.6,1079.69,New model
+P00011,Philips,Monitor,3,1922.84,1193.59,New arrival
+P00012,Apple,Smartwatch,3,747.87,441.51,Seasonal item
+P00013,LG,TV,2,238.8,95.86,New arrival
+P00014,Apple,Keyboard,4,1201.02,553.53,Seasonal item
+P00015,Toshiba,Smartphone,3,531.92,295.41,New arrival
+P00016,Garmin,Tablet,1,1391.5,851.42,Supplier discount
+P00017,Asus,Mouse,4,1549.49,770.68,New arrival
+P00018,Logitech,Monitor,2,1662.5,916.99,New arrival
+P00019,Dell,TV,1,424.9,215.97,Seasonal item
+P00020,Logitech,Laptop,3,1211.94,631.05,
+P00021,Dell,Speaker,1,921.1,557.62,Supplier discount
+P00022,Xiaomi,Smartwatch,4,1811.46,806.67,Seasonal item
+P00023,HP,Monitor,2,380.1,197.0,Supplier discount
+P00024,Sony,Monitor,4,1327.51,693.32,
+P00025,Asus,Keyboard,4,844.87,586.33,New arrival
+P00026,Philips,Smartphone,5,923.97,486.21,Limited stock
+P00027,Philips,Monitor,4,399.28,189.6,New arrival
+P00028,Asus,Monitor,3,1361.69,842.51,
+P00029,Asus,Keyboard,4,1555.29,942.67,New model
+P00030,LG,TV,2,1826.42,769.99,
+P00031,Logitech,Smartwatch,5,814.12,384.94,
+P00032,Philips,Headphones,5,1457.05,798.51,Seasonal item
+P00033,Logitech,Tablet,3,884.24,424.32,Supplier discount
+P00034,Philips,Smartwatch,5,1563.62,757.86,
+P00035,Lenovo,Monitor,2,1188.93,801.05,Seasonal item
+P00036,Sony,TV,3,441.75,201.54,New arrival
+P00037,Logitech,TV,5,83.5,53.24,Supplier discount
+P00038,LG,Tablet,3,483.74,316.23,New model
+P00039,Xiaomi,Smartwatch,2,1495.79,762.2,New model
+P00040,Toshiba,Headphones,4,280.36,155.03,
+P00041,Toshiba,Smartwatch,5,886.51,551.26,
+P00042,Lenovo,Laptop,2,1011.76,552.66,
+P00043,Panasonic,Headphones,5,1455.7,850.82,
+P00044,Toshiba,Smartwatch,1,1433.35,882.56,Limited stock
+P00045,Logitech,Smartwatch,3,1689.08,693.49,Limited stock
+P00046,HP,Tablet,3,156.5,82.39,
+P00047,HP,Keyboard,1,1130.77,567.2,Limited stock
+P00048,LG,Monitor,2,119.12,49.33,Limited stock
+P00049,Dell,Smartphone,4,1310.85,644.55,
+P00050,Apple,Speaker,3,1977.59,1376.0,New model
+P00051,LG,Speaker,1,1039.4,475.84,
+P00052,Panasonic,Monitor,1,389.92,266.79,New model
+P00053,HP,Laptop,3,1831.22,1063.03,New arrival
+P00054,Philips,Speaker,2,896.75,610.24,Limited stock
+P00055,Garmin,Laptop,5,1056.44,516.1,Limited stock
+P00056,Sony,Smartwatch,4,1609.59,962.4,Seasonal item
+P00057,Samsung,Monitor,5,457.15,215.64,New model
+P00058,Garmin,Smartwatch,2,929.57,505.4,New model
+P00059,HP,Speaker,1,1538.46,937.8,
+P00060,HP,Mouse,3,1706.68,1078.52,New arrival
+P00061,Lenovo,Smartphone,3,407.97,178.29,
+P00062,Asus,Tablet,4,353.71,177.6,New model
+P00063,Toshiba,Headphones,5,1756.98,816.64,Limited stock
+P00064,Toshiba,Speaker,4,1194.31,775.06,New arrival
+P00065,Apple,Tablet,5,1891.04,1222.95,
+P00066,Logitech,Smartwatch,3,456.53,222.54,Seasonal item
+P00067,LG,Mouse,4,1889.12,877.42,New arrival
+P00068,Xiaomi,Speaker,2,1408.15,916.27,New model
+P00069,Asus,Headphones,4,130.93,68.66,New arrival
+P00070,Dell,Mouse,3,1666.19,1129.61,Seasonal item
+P00071,Samsung,Laptop,2,1998.92,1302.53,Supplier discount
+P00072,LG,Smartwatch,5,1804.45,1263.09,Supplier discount
+P00073,Dell,Headphones,3,1632.96,1017.91,Supplier discount
+P00074,Philips,Smartphone,5,193.18,107.61,New arrival
+P00075,Samsung,Keyboard,4,1305.95,642.05,Seasonal item
+P00076,LG,Headphones,2,979.09,509.65,Limited stock
+P00077,LG,Speaker,4,929.92,637.03,
+P00078,Dell,Speaker,1,627.11,309.47,Seasonal item
+P00079,Logitech,Keyboard,2,430.29,191.87,
+P00080,Xiaomi,Laptop,4,809.49,406.34,Supplier discount
+P00081,Asus,Laptop,1,434.66,232.9,Seasonal item
+P00082,Apple,Keyboard,5,846.09,532.02,New arrival
+P00083,Dell,Speaker,2,1181.51,700.98,Seasonal item
+P00084,Panasonic,Mouse,2,1799.8,1239.59,Seasonal item
+P00085,Xiaomi,Tablet,3,1217.55,554.08,
+P00086,Logitech,Mouse,4,947.3,445.05,Supplier discount
+P00087,Logitech,Headphones,3,909.75,449.86,
+P00088,Samsung,Keyboard,3,376.24,210.19,Supplier discount
+P00089,Toshiba,TV,5,1938.64,944.11,Supplier discount
+P00090,HP,Laptop,2,631.1,381.71,Limited stock
+P00091,Dell,Smartwatch,1,446.93,266.59,New arrival
+P00092,Samsung,Smartphone,4,870.72,504.57,Seasonal item
+P00093,Apple,TV,3,172.52,104.56,Limited stock
+P00094,Dell,Mouse,3,345.92,165.31,Supplier discount
+P00095,Panasonic,Keyboard,5,1600.33,813.05,Supplier discount
+P00096,Toshiba,Speaker,4,760.97,410.49,Supplier discount
+P00097,Asus,Keyboard,4,53.64,32.37,New arrival
+P00098,HP,Tablet,5,518.81,264.35,Limited stock
+P00099,Panasonic,Tablet,2,1310.49,715.67,New model
+P00100,Toshiba,Smartphone,3,126.92,56.48,Supplier discount
+P00101,HP,Monitor,1,608.75,343.3,New model
+P00102,Panasonic,Speaker,4,268.88,127.94,
+P00103,Philips,Headphones,2,928.88,631.51,New arrival
+P00104,Dell,Smartwatch,3,512.95,250.57,New model
+P00105,Garmin,Laptop,2,492.25,217.17,New arrival
+P00106,Apple,Smartphone,5,646.83,329.25,Seasonal item
+P00107,Dell,Mouse,4,1250.34,537.65,New model
+P00108,Philips,Laptop,5,1910.74,871.99,
+P00109,Asus,Speaker,3,877.75,415.18,
+P00110,Logitech,Speaker,3,1394.77,794.94,New arrival
+P00111,Panasonic,Headphones,2,1243.44,637.02,Limited stock
+P00112,Toshiba,Smartwatch,4,1490.3,873.21,
+P00113,Dell,Monitor,3,290.28,121.82,New model
+P00114,Samsung,Monitor,5,769.72,349.28,Supplier discount
+P00115,Logitech,Smartwatch,2,1943.58,1228.26,Limited stock
+P00116,Samsung,Smartwatch,2,1116.47,731.99,Supplier discount
+P00117,Sony,Smartwatch,2,1064.05,603.46,Limited stock
+P00118,Xiaomi,Speaker,4,1944.5,881.43,New arrival
+P00119,Apple,Monitor,5,1220.78,624.81,Seasonal item
+P00120,Garmin,Tablet,4,310.05,171.15,New model
+P00121,Toshiba,Monitor,4,752.07,485.44,New model
+P00122,Apple,Tablet,4,1765.81,852.24,Seasonal item
+P00123,Panasonic,Laptop,5,678.9,303.11,Limited stock
+P00124,Philips,TV,1,237.92,132.9,Seasonal item
+P00125,Philips,Mouse,4,536.86,358.65,New model
+P00126,Asus,Mouse,1,260.84,133.79,Limited stock
+P00127,Apple,Smartphone,5,752.96,499.43,Seasonal item
+P00128,HP,Laptop,2,269.74,163.02,New model
+P00129,Apple,Laptop,2,972.43,560.09,Seasonal item
+P00130,Asus,Monitor,3,475.24,248.42,Limited stock
+P00131,Toshiba,Keyboard,3,1248.09,667.3,New model
+P00132,Asus,Smartwatch,1,201.2,81.48,New arrival
+P00133,Logitech,Smartphone,1,51.47,23.36,Supplier discount
+P00134,Logitech,TV,2,368.89,229.35,Supplier discount
+P00135,Xiaomi,Monitor,1,784.27,321.88,Seasonal item
+P00136,Garmin,Headphones,4,839.42,538.21,
+P00137,LG,Tablet,5,825.52,497.9,
+P00138,Lenovo,Mouse,5,117.71,78.33,New arrival
+P00139,Logitech,Monitor,2,1483.4,1019.87,New arrival
+P00140,Panasonic,Headphones,2,338.42,165.36,New model
+P00141,Philips,TV,3,460.11,302.67,
+P00142,Asus,Laptop,3,1816.3,764.29,
+P00143,Panasonic,Speaker,2,354.3,182.37,
+P00144,Asus,Tablet,2,1422.38,983.77,Limited stock
+P00145,Samsung,Speaker,2,632.81,372.74,Seasonal item
+P00146,Apple,Smartwatch,5,1018.2,563.01,Supplier discount
+P00147,Logitech,Smartwatch,3,853.75,417.39,New model
+P00148,Xiaomi,Headphones,3,1744.48,907.35,
+P00149,Lenovo,Tablet,2,1835.59,740.84,New model
+P00150,Garmin,Mouse,2,660.96,385.27,Seasonal item
+P00151,Samsung,Monitor,2,1755.55,1221.99,Supplier discount
+P00152,Apple,Speaker,1,1314.0,820.52,
+P00153,Logitech,Keyboard,3,706.97,412.99,Seasonal item
+P00154,LG,Keyboard,2,877.95,371.9,New model
+P00155,Apple,Smartphone,4,1370.0,878.91,Seasonal item
+P00156,Panasonic,Smartphone,5,726.86,354.22,Supplier discount
+P00157,Toshiba,Monitor,4,1356.27,591.35,Supplier discount
+P00158,LG,Speaker,4,122.62,75.06,Limited stock
+P00159,Logitech,Speaker,1,1237.59,622.3,Seasonal item
+P00160,Panasonic,Tablet,4,1641.61,790.87,Supplier discount
+P00161,LG,Speaker,2,752.8,525.33,New model
+P00162,HP,Smartphone,5,173.35,73.48,
+P00163,Samsung,Monitor,5,109.5,58.86,New arrival
+P00164,Philips,Speaker,2,1494.67,619.39,Limited stock
+P00165,Samsung,Monitor,2,1162.05,649.45,Seasonal item
+P00166,Apple,Keyboard,1,1299.44,840.53,Limited stock
+P00167,Toshiba,Headphones,1,90.31,55.22,New model
+P00168,Panasonic,TV,3,950.43,513.13,Supplier discount
+P00169,Xiaomi,Mouse,1,1090.48,649.77,Seasonal item
+P00170,Toshiba,Mouse,4,1194.95,616.62,New model
+P00171,Samsung,Keyboard,3,264.0,121.39,
+P00172,Toshiba,Tablet,5,620.93,427.72,Supplier discount
+P00173,Toshiba,Laptop,4,73.79,40.06,
+P00174,LG,Laptop,1,459.23,202.62,
+P00175,Samsung,Monitor,5,1362.9,619.65,Seasonal item
+P00176,Sony,Speaker,4,392.24,215.06,New model
+P00177,Xiaomi,Mouse,2,1096.47,487.84,New model
+P00178,Samsung,Laptop,1,1163.62,801.27,Supplier discount
+P00179,Asus,Speaker,1,453.68,251.13,New arrival
+P00180,Lenovo,Smartwatch,5,1543.72,810.94,Limited stock
+P00181,Philips,TV,3,345.83,222.77,Limited stock
+P00182,Sony,TV,5,1230.15,602.22,Seasonal item
+P00183,Panasonic,Keyboard,1,1571.4,878.83,
+P00184,Garmin,TV,3,864.9,404.2,
+P00185,Apple,Monitor,2,560.06,263.44,
+P00186,Garmin,Smartwatch,5,1144.73,760.76,New model
+P00187,Xiaomi,Keyboard,2,77.27,50.05,Seasonal item
+P00188,Dell,TV,1,121.45,65.92,
+P00189,Dell,Keyboard,1,488.18,211.37,Seasonal item
+P00190,LG,TV,1,230.63,104.29,New model
+P00191,Toshiba,Headphones,3,637.71,392.09,Limited stock
+P00192,Apple,Monitor,5,1041.94,570.92,Limited stock
+P00193,Panasonic,Headphones,2,1704.08,876.13,Seasonal item
+P00194,Dell,Speaker,2,1201.61,746.4,
+P00195,Dell,Keyboard,3,1785.65,858.34,Supplier discount
+P00196,Sony,Headphones,1,1763.08,859.88,
+P00197,Toshiba,Headphones,1,486.99,282.0,Limited stock
+P00198,LG,Smartwatch,1,1167.39,523.58,New arrival
+P00199,HP,Speaker,5,1738.02,956.18,Seasonal item
+P00200,Toshiba,Smartwatch,4,322.81,171.7,Supplier discount
+P00201,Samsung,Monitor,2,572.32,386.35,Limited stock
+P00202,Philips,Speaker,5,1010.74,541.08,Limited stock
+P00203,LG,Smartphone,4,1278.15,688.96,Seasonal item
+P00204,LG,Keyboard,3,930.82,381.46,New arrival
+P00205,Xiaomi,Monitor,1,722.29,410.91,New arrival
+P00206,Garmin,Laptop,4,298.08,202.77,
+P00207,Sony,Monitor,2,1850.72,880.93,New arrival
+P00208,Sony,Mouse,3,1637.62,669.43,Supplier discount
+P00209,HP,Laptop,4,1061.68,486.01,Limited stock
+P00210,HP,Smartphone,5,1164.83,703.49,New arrival
+P00211,Dell,TV,4,1012.67,446.68,New arrival
+P00212,Asus,Tablet,1,131.54,66.33,Limited stock
+P00213,HP,Tablet,4,497.37,255.16,New model
+P00214,Samsung,Tablet,1,949.11,482.57,Limited stock
+P00215,Lenovo,Monitor,2,717.5,307.12,Supplier discount
+P00216,Toshiba,Laptop,2,1434.81,849.48,Seasonal item
+P00217,Sony,Tablet,4,1385.58,859.24,Seasonal item
+P00218,LG,Laptop,5,239.47,135.59,Supplier discount
+P00219,Samsung,Mouse,4,1691.16,989.38,New model
+P00220,Xiaomi,Laptop,1,459.7,300.6,New model
+P00221,Lenovo,Headphones,5,1137.65,507.7,Supplier discount
+P00222,Panasonic,Tablet,2,1600.7,762.5,Supplier discount
+P00223,Xiaomi,Mouse,4,806.39,406.88,New arrival
+P00224,Lenovo,Keyboard,1,920.34,572.43,Seasonal item
+P00225,Panasonic,Keyboard,5,1061.65,499.48,New arrival
+P00226,Logitech,Mouse,1,958.71,509.18,Seasonal item
+P00227,LG,Mouse,1,1239.38,561.13,Seasonal item
+P00228,Samsung,Monitor,2,426.27,266.49,New model
+P00229,Garmin,TV,2,1694.29,805.67,
+P00230,LG,Laptop,2,1476.08,624.51,Limited stock
+P00231,Samsung,Monitor,1,707.71,445.47,Supplier discount
+P00232,Panasonic,Monitor,1,997.17,505.93,
+P00233,Xiaomi,Smartphone,5,1463.78,854.37,New arrival
+P00234,Dell,Smartphone,1,405.31,245.88,Limited stock
+P00235,Garmin,TV,2,505.64,346.08,New model
+P00236,Asus,Monitor,4,1058.75,425.83,Limited stock
+P00237,Toshiba,Monitor,1,379.0,225.99,Limited stock
+P00238,Logitech,Mouse,5,653.73,320.92,New model
+P00239,Philips,Speaker,1,687.2,465.62,Supplier discount
+P00240,Samsung,Keyboard,2,1885.89,765.83,Limited stock
+P00241,Lenovo,Smartwatch,4,652.48,307.84,Seasonal item
+P00242,HP,Tablet,4,581.47,347.73,Limited stock
+P00243,Logitech,Keyboard,4,56.41,28.9,Supplier discount
+P00244,Logitech,Keyboard,1,624.08,423.23,New arrival
+P00245,LG,Speaker,2,1868.42,1161.52,Limited stock
+P00246,Samsung,Tablet,1,443.69,264.92,
+P00247,Xiaomi,TV,1,1265.35,790.72,New arrival
+P00248,Garmin,Monitor,1,54.73,24.63,Supplier discount
+P00249,Asus,Smartwatch,2,720.15,462.38,New model
+P00250,Sony,Speaker,3,450.28,306.94,
+P00251,Apple,Tablet,3,1997.72,1223.72,
+P00252,Xiaomi,Mouse,4,1350.99,888.98,Limited stock
+P00253,LG,TV,2,796.01,541.12,Limited stock
+P00254,Philips,TV,1,144.94,75.17,Supplier discount
+P00255,Toshiba,Laptop,4,803.46,324.64,
+P00256,Garmin,Monitor,1,500.49,211.12,Limited stock
+P00257,Lenovo,Laptop,1,1061.14,650.35,New model
+P00258,LG,Headphones,4,1838.78,1248.2,Limited stock
+P00259,Logitech,Smartwatch,2,651.03,294.69,Supplier discount
+P00260,HP,Speaker,1,658.37,270.07,Limited stock
+P00261,Asus,Headphones,5,1677.95,814.6,New arrival
+P00262,LG,Smartwatch,2,132.52,81.1,Supplier discount
+P00263,Dell,Speaker,3,1305.3,536.92,New model
+P00264,Logitech,Smartphone,5,747.38,458.55,Supplier discount
+P00265,Dell,Tablet,3,1889.66,1097.55,
+P00266,Lenovo,Laptop,4,1576.47,771.73,
+P00267,Panasonic,Tablet,2,848.22,504.41,Supplier discount
+P00268,Samsung,Headphones,4,892.55,547.54,Limited stock
+P00269,Apple,Headphones,4,611.29,328.72,Supplier discount
+P00270,Garmin,Mouse,4,1285.45,628.13,Limited stock
+P00271,Toshiba,Speaker,5,1661.38,862.27,New model
+P00272,Garmin,Smartphone,2,1900.96,1137.08,Limited stock
+P00273,Garmin,Monitor,2,1280.27,621.41,
+P00274,Philips,Laptop,2,483.23,204.44,New model
+P00275,Panasonic,Smartwatch,1,1751.87,924.69,
+P00276,Dell,Smartwatch,1,799.49,475.23,Seasonal item
+P00277,Toshiba,Speaker,2,193.02,93.27,
+P00278,HP,Headphones,1,842.42,455.81,New model
+P00279,Logitech,TV,1,1366.22,618.64,
+P00280,Asus,Speaker,3,1926.13,871.93,Limited stock
+P00281,Apple,TV,1,1200.56,831.35,New arrival
+P00282,Panasonic,Speaker,2,254.79,134.78,Supplier discount
+P00283,Garmin,Tablet,3,174.13,82.34,New arrival
+P00284,Panasonic,TV,2,1708.35,915.38,
+P00285,Logitech,Smartphone,1,1777.75,1181.49,Supplier discount
+P00286,Panasonic,Smartphone,4,1806.65,1226.67,Seasonal item
+P00287,LG,Keyboard,4,1679.77,916.41,Seasonal item
+P00288,HP,Mouse,1,1250.32,752.08,New arrival
+P00289,Toshiba,Headphones,1,1974.84,1365.8,Limited stock
+P00290,Toshiba,Keyboard,3,1154.65,521.09,Limited stock
+P00291,Dell,Laptop,4,902.12,530.74,
+P00292,Sony,Headphones,4,808.92,405.73,Seasonal item
+P00293,Lenovo,Speaker,5,490.85,251.55,Seasonal item
+P00294,Lenovo,Monitor,4,616.86,306.3,New arrival
+P00295,Lenovo,Speaker,5,352.1,140.97,
+P00296,Sony,Tablet,1,269.87,132.13,Seasonal item
+P00297,Apple,Smartphone,5,1055.14,722.93,Supplier discount
+P00298,Dell,Keyboard,1,246.9,152.18,Seasonal item
+P00299,Garmin,Headphones,3,209.99,141.95,Limited stock

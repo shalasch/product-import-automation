@@ -1,0 +1,76 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>Product Registration</title>
+
+<style>
+body { font-family: Arial; margin:30px; }
+
+.grid {
+display:grid;
+grid-template-columns:1fr 1fr;
+gap:10px;
+max-width:700px;
+}
+
+input, textarea{
+padding:10px;
+}
+
+textarea{
+grid-column:1 / -1;
+}
+
+button{
+padding:10px;
+cursor:pointer;
+}
+
+table{
+margin-top:30px;
+border-collapse:collapse;
+width:100%;
+}
+
+th,td{
+border:1px solid #ddd;
+padding:8px;
+}
+
+th{
+background:#f5f5f5;
+}
+</style>
+
+</head>
+
+<body>
+
+<h2>Product Registration</h2>
+
+<form method="POST" action="/products/save">
+
+<div class="grid">
+
+<input id="code" name="code" placeholder="Code">
+<input id="brand" name="brand" placeholder="Brand">
+
+<input id="product_type" name="product_type" placeholder="Type">
+<input id="category" name="category" placeholder="Category">
+
+<input id="unit_price" name="unit_price" placeholder="Unit Price">
+<input id="cost" name="cost" placeholder="Cost">
+
+<textarea id="notes" name="notes" placeholder="Notes"></textarea>
+
+</div>
+
+<br>
+
+<button id="btn-save" type="submit">Save</button>
+
+</form>
+
+</body>
+</html>
