@@ -1,3 +1,5 @@
+
+
 # Product Import Automation (CSV → Selenium → Web Form → SQLite)
 
 This project demonstrates a real-world automation workflow that imports products from a CSV dataset, automatically fills a web form using Selenium, and stores the data in a SQLite database through a local Flask application.
@@ -5,6 +7,15 @@ This project demonstrates a real-world automation workflow that imports products
 The goal of this project is to simulate a common business scenario: registering hundreds of products into a system without manual data entry.
 
 ---
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Selenium](https://img.shields.io/badge/Selenium-Automation-green)
+![Flask](https://img.shields.io/badge/Flask-Web_App-black)
+![SQLite](https://img.shields.io/badge/Database-SQLite-lightgrey)
+
+## Automation Demo
+
+![Automation Demo](assets/automation-demo.gif)  
 
 # Overview
 
